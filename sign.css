@@ -1,0 +1,60 @@
+.sa{
+    border-radius: 25px solid rgb(246, 245, 245);
+    margin-left: 566px;
+    height: 12cm;
+    width: 12cm;
+    background-color: lightblue;
+    
+}
+h1{
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    padding-left: 10px;
+    padding-top: -17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    opacity: 50%;
+}
+.ra{
+    border-radius: 30px;
+    padding-left: 8px;
+    opacity: 50%;
+}
+.fa{
+ position:fixed;
+ top: 119px;
+ margin-left: 15%;
+ opacity: 50%;
+}
+.ta{
+    margin-left: 8px;
+    margin-top: 10px;
+    opacity: 50%;
+}
+.ty{
+    margin-left: 8px;
+    margin-top: 10px;
+    opacity: 50%;
+}
+.ee{
+    margin-left: 8px;
+    margin-top: 10px;
+    opacity: 50%;
+
+}
+.dd{
+    margin-top: 10px;
+    opacity: 70%;
+}
+button{
+    border-radius: 10px;
+    background-color: green;
+    margin-left: 19%;
+    margin-top: 10px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
